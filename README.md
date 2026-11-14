@@ -1,3 +1,5 @@
+![PYTHON-BASALT](.github/banner.png)
+
 # basalt-vault — the Basalt Protocol v1 in Python
 
 An independent implementation of [the Basalt Protocol](https://github.com/CarterCole/basalt/blob/main/protocol/PROTOCOL.md),
